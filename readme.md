@@ -32,4 +32,4 @@ agenda de contatos que permite armazenar, gerenciar e organizar informações de
 
 ## Status do Projeto
 
-<img alt="projectstatus" src="https://img.shields.io/badge/Status do Projeto-Aprimoramento-gree">
+<img alt="projectstatus" src="https://img.shields.io/badge/Status do Projeto-Finalizado-gree">
